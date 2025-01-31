@@ -1,3 +1,3 @@
 # Test Repo
 
-This is a repository for testing purpose.
+This is a repository created to test Github Flow.
